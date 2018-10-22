@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/bin/Debug/netcoreapp2.0/Wizard.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/bin/Debug/netcoreapp2.0/Wizard.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/bin/Debug/netcoreapp2.0/Wizard.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/bin/Debug/netcoreapp2.0/Wizard.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/bin/Debug/netcoreapp2.0/Wizard.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/obj/Debug/netcoreapp2.0/Wizard.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/obj/Debug/netcoreapp2.0/Wizard.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/obj/Debug/netcoreapp2.0/Wizard.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/obj/Debug/netcoreapp2.0/Wizard.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/obj/Debug/netcoreapp2.0/Wizard.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Wizard/obj/Debug/netcoreapp2.0/Wizard.csprojResolveAssemblyReference.cache
